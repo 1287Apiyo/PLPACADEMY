@@ -1,2 +1,2 @@
-# demo
-just a demo project for training purpose
+# PLP
+This repo contains all the practice code  done during PLP SE classes
